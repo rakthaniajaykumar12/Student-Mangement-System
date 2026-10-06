@@ -1,2 +1,3 @@
-a= input("This is soo cool")
+a= input("This is veghtjutju soo cool")
 print(a)
+
